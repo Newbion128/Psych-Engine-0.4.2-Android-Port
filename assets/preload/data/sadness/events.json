@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 1.3,
+		"stage": "Tsad",
+		"player1": "bfT",
+		"player2": "SadSheet",
+		"player3": null,
+		"events": [
+			[
+				70000,
+				[
+					[
+						"Change Character",
+						"1",
+						"SadSheet2"
+					]
+				]
+			],
+			[
+				140000,
+				[
+					[
+						"Change Character",
+						"1",
+						"SadSheet3"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 120,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Sadness"
+	}
+}

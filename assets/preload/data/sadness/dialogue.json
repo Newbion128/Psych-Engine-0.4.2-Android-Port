@@ -1,0 +1,123 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Recuerdo cuando me desperte, Todo parecia tan ... Confuso",
+			"boxState": "normal",
+			"portrait": "roboPortait",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "¿Que eran esas voces? Esas terribles voces que me obligaron a trollear ...",
+			"boxState": "normal",
+			"portrait": "roboPortait",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Todo lo que tenia en mi mente eran recuerdos de un tiempo lejano",
+			"boxState": "normal",
+			"portrait": "roboPortait",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Una epoca en la que era feliz (2010)",
+			"boxState": "normal",
+			"portrait": "roboPortait",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "¿Pero que paso?",
+			"boxState": "normal",
+			"portrait": "roboPortait",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "¿Porque?",
+			"boxState": "normal",
+			"portrait": "roboPortait",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": " Solo ... ¿Por que?",
+			"boxState": "normal",
+			"portrait": "roboPortait",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Cuando me desperte me senti triste,triste y solo",
+			"boxState": "normal",
+			"portrait": "roboPortait",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Nadie me consolo , estaba tan solo",
+			"boxState": "normal",
+			"portrait": "roboPortait",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Pero habia algo de lo que estaba seguro: necesitaba encontrarlo",
+			"boxState": "normal",
+			"portrait": "roboPortait",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Oh mi querido amigo",
+			"boxState": "normal",
+			"portrait": "roboPortait",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "¿Que he hecho...?",
+			"boxState": "normal",
+			"portrait": "roboPortait",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "¿Por que? ... Solo por-",
+			"boxState": "normal",
+			"portrait": "roboPortait",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Beep",
+			"boxState": "normal",
+			"portrait": "bfPortrait",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Espera,¿que?",
+			"boxState": "normal",
+			"portrait": "roboPortait3",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": " ",
+			"boxState": "normal",
+			"portrait": "bfPortrait",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Beep!",
+			"boxState": "normal",
+			"portrait": "bfPortrait",
+			"speed": 0.05
+		}
+	]
+}
