@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				-196
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "AbbyIDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-59,
+				-122
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "AbbyLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-83,
+				-286
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "AbbyDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-58,
+				-102
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "AbbyUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-229
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "AbbyRIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AbbyPOSES",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "abby",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		182,
+		68
+	],
+	"camera_position": [
+		-120,
+		280
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

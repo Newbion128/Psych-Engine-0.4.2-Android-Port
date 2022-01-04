@@ -2,7 +2,7 @@
 	"animations": [
 		{
 			"offsets": [
-				2,
+				7,
 				0
 			],
 			"loop": false,
@@ -10,6 +10,28 @@
 			"fps": 24,
 			"name": "BF IDLE",
 			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF LEFT MISS"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF LEFT NOTE"
 		},
 		{
 			"offsets": [
@@ -40,6 +62,28 @@
 			],
 			"loop": false,
 			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF RIGHT NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF RIGHT MISS"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
 			"name": "BF DOWN NOTE"
@@ -54,59 +98,15 @@
 			"anim": "singDOWNmiss",
 			"indices": [],
 			"name": "BF DOWN MISS"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "BF RIGHT NOTE"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "BF LEFT MISS"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "BF RIGHT MISS"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "BF LEFT NOTE",
-			"indices": []
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/bfPixel",
+	"image": "characters/bf-Pixel7",
 	"position": [
-		70,
-		470
+		0,
+		350
 	],
-	"healthicon": "bf-pixel",
+	"healthicon": "bf-soul",
 	"flip_x": true,
 	"healthbar_colors": [
 		123,
@@ -114,9 +114,9 @@
 		246
 	],
 	"camera_position": [
-		-280,
+		180,
 		-150
 	],
 	"sing_duration": 4,
-	"scale": 6.8
+	"scale": 6
 }

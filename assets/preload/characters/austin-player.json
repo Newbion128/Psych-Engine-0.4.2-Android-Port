@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				38,
+				51
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "austin idle dance"
+		},
+		{
+			"offsets": [
+				20,
+				-211
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "austin Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				111,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "austin Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				40,
+				-33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "austin Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				20,
+				-211
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "austin miss down"
+		},
+		{
+			"offsets": [
+				120,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "austin miss left"
+		},
+		{
+			"offsets": [
+				40,
+				-33
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "austin miss right"
+		},
+		{
+			"offsets": [
+				24,
+				60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "austin Sing Note UP"
+		},
+		{
+			"offsets": [
+				24,
+				60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "austin miss up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/austin_assets",
+	"position": [
+		100,
+		0
+	],
+	"healthicon": "austin",
+	"flip_x": false,
+	"healthbar_colors": [
+		180,
+		24,
+		24
+	],
+	"camera_position": [
+		250,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.85
+}

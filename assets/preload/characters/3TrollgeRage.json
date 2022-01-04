@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				55,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "1TrollgeRageIdle"
+		},
+		{
+			"offsets": [
+				79,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "1TrollgeRageLeft"
+		},
+		{
+			"offsets": [
+				73,
+				-51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "1TrollgeRageRight"
+		},
+		{
+			"offsets": [
+				98,
+				-46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "1TrollgeRageDown"
+		},
+		{
+			"offsets": [
+				248,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "1TrollgeRageUp"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/3TrollgeRage",
+	"position": [
+		-160,
+		40
+	],
+	"healthicon": "sadT",
+	"flip_x": false,
+	"healthbar_colors": [
+		164,
+		48,
+		54
+	],
+	"camera_position": [
+		-90,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

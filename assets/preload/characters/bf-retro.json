@@ -2,8 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				-5,
-				0
+				-8,
+				20
 			],
 			"loop": false,
 			"fps": 24,
@@ -13,52 +13,8 @@
 		},
 		{
 			"offsets": [
-				12,
-				-6
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "BF NOTE LEFT0"
-		},
-		{
-			"offsets": [
-				-10,
-				-50
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "BF NOTE DOWN0"
-		},
-		{
-			"offsets": [
-				-29,
-				27
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "BF NOTE UP0"
-		},
-		{
-			"offsets": [
-				-38,
-				-7
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "BF NOTE RIGHT0"
-		},
-		{
-			"offsets": [
-				12,
-				24
+				-3,
+				49
 			],
 			"loop": false,
 			"fps": 24,
@@ -68,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				-11,
-				-19
+				-25,
+				31
 			],
 			"loop": false,
 			"fps": 24,
@@ -79,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-29,
-				27
+				-26,
+				57
 			],
 			"loop": false,
 			"fps": 24,
@@ -90,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				-30,
-				21
+				-93,
+				92
 			],
 			"loop": false,
 			"fps": 24,
@@ -101,41 +57,8 @@
 		},
 		{
 			"offsets": [
-				-3,
-				5
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "hey",
-			"indices": [],
-			"name": "BF HEY"
-		},
-		{
-			"offsets": [
-				15,
-				18
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "hurt",
-			"indices": [],
-			"name": "BF hit"
-		},
-		{
-			"offsets": [
-				-4,
-				0
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "scared",
-			"indices": [],
-			"name": "BF idle shaking"
-		},
-		{
-			"offsets": [
-				37,
-				11
+				47,
+				1
 			],
 			"loop": false,
 			"fps": 24,
@@ -145,7 +68,7 @@
 		},
 		{
 			"offsets": [
-				37,
+				-63,
 				5
 			],
 			"loop": true,
@@ -156,8 +79,8 @@
 		},
 		{
 			"offsets": [
-				37,
-				69
+				-43,
+				-1
 			],
 			"loop": false,
 			"fps": 24,
@@ -167,50 +90,83 @@
 		},
 		{
 			"offsets": [
+				-30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF NOTE DOWN instancia"
+		},
+		{
+			"offsets": [
+				-2,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF NOTE LEFT instancia"
+		},
+		{
+			"offsets": [
+				-96,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE RIGHT instancia"
+		},
+		{
+			"offsets": [
+				-19,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP instancia"
+		},
+		{
+			"loop": false,
+			"offsets": [
 				-10,
-				-16
+				20
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "dodge",
-			"loop": false,
-			"name": "boyfriend dodge"
+			"fps": 24,
+			"name": "boyfriend dodge instancia ",
+			"indices": []
 		},
 		{
 			"offsets": [
-				294,
-				267
+				-30,
+				20
 			],
 			"indices": [],
 			"fps": 24,
-			"anim": "attack",
+			"anim": "at",
 			"loop": false,
-			"name": "boyfriend attack"
-		},
-		{
-			"offsets": [
-				-40,
-				-40
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "pre-attack",
-			"loop": false,
-			"name": "bf pre attack"
+			"name": "BF Jeringa instancia "
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/BOYFRIEND_RETRO",
 	"position": [
 		0,
-		350
+		370
 	],
-	"healthicon": "bf",
+	"healthicon": "bf-suicide",
 	"flip_x": true,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		125,
+		128,
+		142
 	],
 	"camera_position": [
 		0,

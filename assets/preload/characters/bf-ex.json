@@ -3,218 +3,152 @@
 		{
 			"offsets": [
 				-5,
-				0
+				-11
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "BF idle dance"
+			"name": "bf_idle_fdg instance"
 		},
 		{
 			"offsets": [
-				12,
-				-6
+				0,
+				2
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "BF NOTE LEFT0"
+			"name": "bf_left instance"
 		},
 		{
 			"offsets": [
-				-10,
-				-50
+				-17,
+				84
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "BF NOTE DOWN0"
+			"name": "bf_down instance"
 		},
 		{
 			"offsets": [
-				-29,
-				27
+				30,
+				69
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "BF NOTE UP0"
+			"name": "bf_up instance"
 		},
 		{
 			"offsets": [
-				-38,
-				-7
+				-37,
+				34
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "BF NOTE RIGHT0"
+			"name": "bf_right instance"
 		},
 		{
 			"offsets": [
-				12,
-				24
+				0,
+				-28
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFTmiss",
 			"indices": [],
-			"name": "BF NOTE LEFT MISS"
+			"name": "bf_left_miss instance"
 		},
 		{
 			"offsets": [
-				-11,
-				-19
+				-15,
+				46
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWNmiss",
 			"indices": [],
-			"name": "BF NOTE DOWN MISS"
+			"name": "bf_down_miss instance"
 		},
 		{
 			"offsets": [
-				-29,
-				27
+				31,
+				9
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUPmiss",
 			"indices": [],
-			"name": "BF NOTE UP MISS"
+			"name": "bf_up_miss instance"
 		},
 		{
 			"offsets": [
-				-30,
-				21
+				-40,
+				-28
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHTmiss",
 			"indices": [],
-			"name": "BF NOTE RIGHT MISS"
+			"name": "bf_right_miss instance"
 		},
 		{
 			"offsets": [
-				-3,
-				5
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "hey",
-			"indices": [],
-			"name": "BF HEY"
-		},
-		{
-			"offsets": [
-				15,
-				18
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "hurt",
-			"indices": [],
-			"name": "BF hit"
-		},
-		{
-			"offsets": [
-				-4,
-				0
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "scared",
-			"indices": [],
-			"name": "BF idle shaking"
-		},
-		{
-			"offsets": [
-				37,
-				11
+				98,
+				129
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "firstDeath",
 			"indices": [],
-			"name": "BF dies"
+			"name": "bf_gameover_1 instance"
 		},
 		{
 			"offsets": [
-				37,
-				5
+				89,
+				135
 			],
 			"loop": true,
 			"fps": 24,
 			"anim": "deathLoop",
 			"indices": [],
-			"name": "BF Dead Loop"
+			"name": "bf_gameover_2 instance"
 		},
 		{
 			"offsets": [
-				37,
-				69
+				215,
+				206
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "deathConfirm",
 			"indices": [],
-			"name": "BF Dead confirm"
-		},
-		{
-			"offsets": [
-				-10,
-				-16
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "dodge",
-			"loop": false,
-			"name": "boyfriend dodge"
-		},
-		{
-			"offsets": [
-				294,
-				267
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "attack",
-			"loop": false,
-			"name": "boyfriend attack"
-		},
-		{
-			"offsets": [
-				-40,
-				-40
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "pre-attack",
-			"loop": false,
-			"name": "bf pre attack"
+			"name": "bf_gameover_3 instance"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/BoyFriend_Assets_EX",
 	"position": [
 		0,
 		350
 	],
-	"healthicon": "bf",
+	"healthicon": "bf-ex",
 	"flip_x": true,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		21,
+		87,
+		173
 	],
 	"camera_position": [
-		0,
-		0
+		60,
+		-60
 	],
 	"sing_duration": 4,
 	"scale": 1

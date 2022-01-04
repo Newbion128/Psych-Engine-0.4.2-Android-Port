@@ -2,18 +2,7 @@
 	"animations": [
 		{
 			"offsets": [
-				-5,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "idle",
-			"indices": [],
-			"name": "BF idle dance"
-		},
-		{
-			"offsets": [
-				12,
+				-8,
 				-6
 			],
 			"loop": false,
@@ -25,7 +14,7 @@
 		{
 			"offsets": [
 				-10,
-				-50
+				-28
 			],
 			"loop": false,
 			"fps": 24,
@@ -36,7 +25,7 @@
 		{
 			"offsets": [
 				-29,
-				27
+				17
 			],
 			"loop": false,
 			"fps": 24,
@@ -57,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				12,
-				24
+				-8,
+				4
 			],
 			"loop": false,
 			"fps": 24,
@@ -68,7 +57,7 @@
 		},
 		{
 			"offsets": [
-				-11,
+				-22,
 				-19
 			],
 			"loop": false,
@@ -80,7 +69,7 @@
 		{
 			"offsets": [
 				-29,
-				27
+				9
 			],
 			"loop": false,
 			"fps": 24,
@@ -91,35 +80,13 @@
 		{
 			"offsets": [
 				-30,
-				21
+				11
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHTmiss",
 			"indices": [],
 			"name": "BF NOTE RIGHT MISS"
-		},
-		{
-			"offsets": [
-				-3,
-				5
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "hey",
-			"indices": [],
-			"name": "BF HEY"
-		},
-		{
-			"offsets": [
-				15,
-				18
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "hurt",
-			"indices": [],
-			"name": "BF hit"
 		},
 		{
 			"offsets": [
@@ -134,73 +101,18 @@
 		},
 		{
 			"offsets": [
-				37,
-				11
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "firstDeath",
-			"indices": [],
-			"name": "BF dies"
-		},
-		{
-			"offsets": [
-				37,
-				5
+				-5,
+				0
 			],
 			"loop": true,
 			"fps": 24,
-			"anim": "deathLoop",
+			"anim": "idle",
 			"indices": [],
-			"name": "BF Dead Loop"
-		},
-		{
-			"offsets": [
-				37,
-				69
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "deathConfirm",
-			"indices": [],
-			"name": "BF Dead confirm"
-		},
-		{
-			"offsets": [
-				-10,
-				-16
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "dodge",
-			"loop": false,
-			"name": "boyfriend dodge"
-		},
-		{
-			"offsets": [
-				294,
-				267
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "attack",
-			"loop": false,
-			"name": "boyfriend attack"
-		},
-		{
-			"offsets": [
-				-40,
-				-40
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "pre-attack",
-			"loop": false,
-			"name": "bf pre attack"
+			"name": "BF idle dance"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/bf-hellclown",
 	"position": [
 		0,
 		350
@@ -214,8 +126,8 @@
 	],
 	"camera_position": [
 		0,
-		0
+		-80
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 0.5
 }

@@ -13,6 +13,28 @@
 		},
 		{
 			"offsets": [
+				-29,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP0"
+		},
+		{
+			"offsets": [
+				-38,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE RIGHT0"
+		},
+		{
+			"offsets": [
 				12,
 				-6
 			],
@@ -40,20 +62,20 @@
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singUP",
+			"anim": "singUPmiss",
 			"indices": [],
-			"name": "BF NOTE UP0"
+			"name": "BF NOTE UP MISS"
 		},
 		{
 			"offsets": [
-				-38,
-				-7
+				-30,
+				21
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singRIGHT",
+			"anim": "singRIGHTmiss",
 			"indices": [],
-			"name": "BF NOTE RIGHT0"
+			"name": "BF NOTE RIGHT MISS"
 		},
 		{
 			"offsets": [
@@ -79,58 +101,14 @@
 		},
 		{
 			"offsets": [
-				-29,
-				27
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUPmiss",
-			"indices": [],
-			"name": "BF NOTE UP MISS"
-		},
-		{
-			"offsets": [
-				-30,
-				21
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "BF NOTE RIGHT MISS"
-		},
-		{
-			"offsets": [
-				-3,
-				5
+				7,
+				4
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "hey",
 			"indices": [],
 			"name": "BF HEY"
-		},
-		{
-			"offsets": [
-				15,
-				18
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "hurt",
-			"indices": [],
-			"name": "BF hit"
-		},
-		{
-			"offsets": [
-				-4,
-				0
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "scared",
-			"indices": [],
-			"name": "BF idle shaking"
 		},
 		{
 			"offsets": [
@@ -167,43 +145,21 @@
 		},
 		{
 			"offsets": [
-				-10,
-				-16
+				-4,
+				0
 			],
-			"indices": [],
+			"loop": true,
 			"fps": 24,
-			"anim": "dodge",
-			"loop": false,
-			"name": "boyfriend dodge"
-		},
-		{
-			"offsets": [
-				294,
-				267
-			],
+			"anim": "scared",
 			"indices": [],
-			"fps": 24,
-			"anim": "attack",
-			"loop": false,
-			"name": "boyfriend attack"
-		},
-		{
-			"offsets": [
-				-40,
-				-40
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "pre-attack",
-			"loop": false,
-			"name": "bf pre attack"
+			"name": "BF idle shaking"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/BF-Carry",
 	"position": [
-		0,
-		350
+		200,
+		100
 	],
 	"healthicon": "bf",
 	"flip_x": true,
@@ -213,8 +169,8 @@
 		209
 	],
 	"camera_position": [
-		0,
-		0
+		300,
+		250
 	],
 	"sing_duration": 4,
 	"scale": 1

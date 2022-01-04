@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-250
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GF Dancing Beat",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bop",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-130,
+		220
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

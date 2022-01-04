@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				-70
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Angry_Agoti_Idle"
+		},
+		{
+			"offsets": [
+				72,
+				-97
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Angry_Agoti_Right"
+		},
+		{
+			"offsets": [
+				45,
+				67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Angry_Agoti_Up"
+		},
+		{
+			"offsets": [
+				145,
+				-126
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Angry_Agoti_Left"
+		},
+		{
+			"offsets": [
+				70,
+				-197
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Angry_Agoti_Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Alt_Agoti_Sprites_B",
+	"position": [
+		-100,
+		-50
+	],
+	"healthicon": "agoti-mad",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		0,
+		0
+	],
+	"camera_position": [
+		80,
+		150
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
