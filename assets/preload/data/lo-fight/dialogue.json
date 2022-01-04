@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "whitty",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..Who-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep boop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whitty",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh, you two."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whitty",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Would both of you kindly leave me alone? I don't want anyone knowin' I'm here"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bip boop beep "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whitty",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...Listen, I ain't lookin' for trouble tonight, just leave and all will be cool."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beepo bap skeboop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "whitty",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		}
+	]
+}
