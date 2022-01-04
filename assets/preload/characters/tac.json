@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				40,
+				-148
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "TacIdle"
+		},
+		{
+			"offsets": [
+				17,
+				-154
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "TacLeft"
+		},
+		{
+			"offsets": [
+				10,
+				-181
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "TacDown"
+		},
+		{
+			"offsets": [
+				0,
+				-97
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "TacUp"
+		},
+		{
+			"offsets": [
+				0,
+				-139
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "TacRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Tac",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "tac",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		216,
+		74
+	],
+	"camera_position": [
+		-150,
+		270
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

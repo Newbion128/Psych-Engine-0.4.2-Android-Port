@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-34
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "TrollgeIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-96
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "TrollgeDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				115,
+				-28
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "TrollgeUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				-37
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "TrollgeRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				81,
+				-36
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "TrollgeLeft",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/trollgeStatic1",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "trollge",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

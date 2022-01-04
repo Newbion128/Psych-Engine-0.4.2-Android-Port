@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				11,
+				-269
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "skid RIGHT NOTE"
+		},
+		{
+			"offsets": [
+				59,
+				-263
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "skid LEFT NOTE"
+		},
+		{
+			"offsets": [
+				75,
+				-228
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "skid UP NOTE"
+		},
+		{
+			"offsets": [
+				10,
+				-320
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "skid DOWN NOTE"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-13,
+				-301
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "skid IDLE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SKID_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "skid",
+	"flip_x": false,
+	"healthbar_colors": [
+		211,
+		211,
+		211
+	],
+	"camera_position": [
+		0,
+		285
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

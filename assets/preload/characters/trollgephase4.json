@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				138,
+				-250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Smile",
+			"indices": [],
+			"name": "IncidentSadSmile"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				138,
+				-250
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IncidentSadSIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				138,
+				-250
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "IncidentSadSing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				138,
+				-250
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "IncidentSadSing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				138,
+				-250
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "IncidentSadSing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				138,
+				-250
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "IncidentSadSing",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/trollgephase4",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Tsad",
+	"flip_x": false,
+	"healthbar_colors": [
+		164,
+		48,
+		54
+	],
+	"camera_position": [
+		-400,
+		250
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}
