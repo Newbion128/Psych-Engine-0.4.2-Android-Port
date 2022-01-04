@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "agotidialogue",
+			"boxState": "angry",
+			"expression": "FUCKING PISSED",
+			"text": "YOU BASTARDS."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "agotidialogue",
+			"boxState": "angry",
+			"expression": "FUCKING PISSED",
+			"text": "HAVE YOU COME IN HERE JUST TO INSULT ME?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "agotidialogue",
+			"boxState": "normal",
+			"expression": "FUCKING PISSED",
+			"text": "I haven't seen the outside world in years..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "agotidialogue",
+			"boxState": "angry",
+			"expression": "FUCKING PISSED",
+			"text": "AND THIS IS WHAT I GET?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "agotidialogue",
+			"boxState": "normal",
+			"expression": "FUCKING PISSED",
+			"text": "Well then, since you and I have broken this worlds curse..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "agotidialogue",
+			"boxState": "angry",
+			"expression": "FUCKING PISSED",
+			"text": "YOU TWO WILL BE MY NEW SUBSTITUTES."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "agotidialogue",
+			"boxState": "angry",
+			"expression": "FUCKING PISSED",
+			"text": "YOU."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "agotidialogue",
+			"boxState": "angry",
+			"expression": "FUCKING PISSED",
+			"text": "FUCKING."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "agotidialogue",
+			"boxState": "angry",
+			"expression": "FUCKING PISSED",
+			"text": "FREAKS"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Beep? (Fuck)"
+		}
+	]
+}
