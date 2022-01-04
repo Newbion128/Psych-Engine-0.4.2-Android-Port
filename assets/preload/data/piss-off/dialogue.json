@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"expression": "hii",
+			"text": "OMG RON I FINALLY FOUND YOU",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "meri"
+		},
+		{
+			"expression": "happy",
+			"text": "I am your biggest fangirl",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "meri"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "meri",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "probably the first and only!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "meri",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "I am here to ask you to be my boyfriend because I think you are HOT"
+		},
+		{
+			"expression": "talk",
+			"text": "shit i dont got gun :(",
+			"boxState": "normal",
+			"speed": 0.025,
+			"portrait": "jhonnportrait"
+		},
+		{
+			"speed": 0.02,
+			"portrait": "jhonnportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+		},
+		{
+			"expression": "talk",
+			"text": "who are you",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jhonnportrait"
+		},
+		{
+			"expression": "happy",
+			"text": "im Meri!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "meri"
+		},
+		{
+			"expression": "happy",
+			"text": "i found your IP address",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "meri"
+		},
+		{
+			"expression": "talk",
+			"text": "shut tghe up",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jhonnportrait"
+		},
+		{
+			"expression": "happy",
+			"text": "1762.928.019",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "meri"
+		}
+	]
+}
