@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "ballistic",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ENOUGH."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ballistic",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "THEY'VE TAKEN ALL I EVER HAD."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ballistic",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'VE BEEN DOOMED INTO AN ENDLESS CYCLE OF RUNNING AND HIDING FROM THINGS I CANNOT CONTROL."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ballistic",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "CURSE YOU, CURSE YOU AND THE FILTH THAT BROUGHT YOU INTO THIS WORLD."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "baboop peebo"
+		}
+	]
+}
