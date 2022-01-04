@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Trate de ser complaciente, intente expulsarlos pacificamente",
+			"boxState": "normal",
+			"portrait": "TPortait",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Pero todo esto es inutil",
+			"boxState": "normal",
+			"portrait": "TPortait",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Ha...",
+			"boxState": "normal",
+			"portrait": "TPortait",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Tienes lo que querias chico Blueballs",
+			"boxState": "normal",
+			"portrait": "TPortait",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Es mejor no arrepentirse ahora",
+			"boxState": "normal",
+			"portrait": "TPortait",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Vamos a trolear un poco.",
+			"boxState": "normal",
+			"portrait": "TPortait",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Beep!",
+			"boxState": "normal",
+			"portrait": "bfPortrait",
+			"speed": 0.05
+		}
+	]
+}
