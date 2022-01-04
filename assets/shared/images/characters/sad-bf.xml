@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:2294a474ba9413fef3a4e3de2b86526c:903730fd876b85800322422acb3422de:c84905b7185dd1120056acd3d5e89854$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="sad bf.png" width="1551" height="2976">
+    <SubTexture name="BF idle dance0001.png" x="0" y="0" width="517" height="496"/>
+    <SubTexture name="BF idle dance0002.png" x="517" y="0" width="517" height="496"/>
+    <SubTexture name="BF idle dance0003.png" x="1034" y="0" width="517" height="496"/>
+    <SubTexture name="BF idle dance0004.png" x="0" y="496" width="517" height="496"/>
+    <SubTexture name="BF idle dance0005.png" x="517" y="496" width="517" height="496"/>
+    <SubTexture name="BF idle dance0006.png" x="1034" y="496" width="517" height="496"/>
+    <SubTexture name="BF NOTE DOWN0001.png" x="0" y="992" width="517" height="496"/>
+    <SubTexture name="BF NOTE DOWN0002.png" x="517" y="992" width="517" height="496"/>
+    <SubTexture name="BF NOTE DOWN0003.png" x="1034" y="992" width="517" height="496"/>
+    <SubTexture name="BF NOTE LEFT0001.png" x="0" y="1488" width="517" height="496"/>
+    <SubTexture name="BF NOTE LEFT0002.png" x="517" y="1488" width="517" height="496"/>
+    <SubTexture name="BF NOTE LEFT0003.png" x="1034" y="1488" width="517" height="496"/>
+    <SubTexture name="BF NOTE RIGHT0001.png" x="0" y="1984" width="517" height="496"/>
+    <SubTexture name="BF NOTE RIGHT0002.png" x="517" y="1984" width="517" height="496"/>
+    <SubTexture name="BF NOTE RIGHT0003.png" x="1034" y="1984" width="517" height="496"/>
+    <SubTexture name="BF NOTE UP0001.png" x="0" y="2480" width="517" height="496"/>
+    <SubTexture name="BF NOTE UP0002.png" x="517" y="2480" width="517" height="496"/>
+    <SubTexture name="BF NOTE UP0003.png" x="1034" y="2480" width="517" height="496"/>
+</TextureAtlas>
