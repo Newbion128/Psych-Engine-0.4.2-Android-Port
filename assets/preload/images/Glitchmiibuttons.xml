@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Glitchmiibuttons.png"><SubTexture name="Glitchmiibuttons anim0000" x="0" y="0" width="2008" height="1075" frameX="0" frameY="0" frameWidth="2008" frameHeight="1075" />
+<SubTexture name="Glitchmiibuttons anim0001" x="2008" y="0" width="2008" height="1085" frameX="0" frameY="0" frameWidth="2008" frameHeight="1085" />
+</TextureAtlas>
