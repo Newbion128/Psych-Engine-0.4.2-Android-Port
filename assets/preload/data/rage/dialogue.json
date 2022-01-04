@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "¡¿Por que ustedes dos no se van de aqui y me dejan solo ?!",
+			"boxState": "normal",
+			"portrait": "roboPortait2",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Beep",
+			"boxState": "normal",
+			"portrait": "bfPortrait",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "...Ok estoy cansado, si no te vas, te obligare",
+			"boxState": "normal",
+			"portrait": "roboPortait3",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Beep!",
+			"boxState": "normal",
+			"portrait": "bfPortrait",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "roboPortait",
+			"speed": 0.05
+		}
+	]
+}

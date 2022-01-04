@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "Trage",
+		"player1": "bfT",
+		"player2": "1TrollgeRage",
+		"player3": null,
+		"events": [
+			[
+				22325.5813953488,
+				[
+					[
+						"Change Character",
+						"1",
+						"1TrollgeRage"
+					]
+				]
+			],
+			[
+				66976.7441860466,
+				[
+					[
+						"Change Character",
+						"1",
+						"2TrollgeRage"
+					]
+				]
+			],
+			[
+				92180.2325581395,
+				[
+					[
+						"Change Character",
+						"1",
+						"3TrollgeRage"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 172,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "rage"
+	}
+}
