@@ -1,0 +1,10 @@
+{
+	"idle_anim": "amortitle",
+	"image": "Start_Screen_bob",
+	"position": [
+		112,
+		314
+	],
+	"scale": 0.36,
+	"confirm_anim": "M Dad Idle"
+}
