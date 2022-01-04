@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "HomerIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				15
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "HomerLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				15
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "HomerRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "HomerDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				24
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "HomerUp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-4,
+				9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Scaredycat",
+			"loop": false,
+			"name": "HomerScared"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Homer",
+	"position": [
+		0,
+		270
+	],
+	"healthicon": "Homer",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		215,
+		0
+	],
+	"camera_position": [
+		-20,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

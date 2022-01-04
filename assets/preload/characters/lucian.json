@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				67
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "LucianIdle"
+		},
+		{
+			"offsets": [
+				6,
+				92
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "LucianLeft"
+		},
+		{
+			"offsets": [
+				3,
+				61
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "LucianDown"
+		},
+		{
+			"offsets": [
+				-32,
+				126
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "LucianUp"
+		},
+		{
+			"offsets": [
+				-9,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "LucianRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Lucian Poses",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "lucian",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		156,
+		190
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

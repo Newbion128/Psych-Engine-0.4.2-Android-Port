@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-9,
+				-179
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Ink Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-195
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Ink Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-6,
+				-170
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Ink Sing Note UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-12,
+				-166
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Ink Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-6,
+				-174
+			],
+			"loop": true,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Ink idle dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-6,
+				-174
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Ink idle dance"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Ink Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Ink Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "Ink Sing Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-100
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "WhatYouKnowAboutRollingDownInTheDeep",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ink",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "ink",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		102,
+		235
+	],
+	"camera_position": [
+		-50,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
